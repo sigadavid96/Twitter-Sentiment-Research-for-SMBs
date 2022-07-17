@@ -1,5 +1,4 @@
-** This is an Independent study by Davidson and Rajanikant at Cargnegie Mellon University under the guidance of Gabriela Gongora-Svartzman, Ph.D.
-Assistant Teaching Professor, CMU. **
+# This is an Independent study by Davidson and Rajanikant at Cargnegie Mellon University under the guidance of Gabriela Gongora-Svartzman, Ph.D. Assistant Teaching Professor, CMU.
 
 >Acquired Research Access to Twitter API 
 
